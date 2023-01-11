@@ -1,0 +1,70 @@
+	disease_new	disease_old	DISEASE
+breast cancer	14	6.0	breast cancer
+Alzheimer's disease	11	6.0	Alzheimer's disease
+ovarian cancer	10	9.0	ovarian cancer
+type 2 diabetes	9	3.0	type 2 diabetes
+neuroblastoma	8	2.0	neuroblastoma
+prostate cancer	7	4.0	prostate cancer
+melanoma skin cancer	5	5.0	melanoma skin cancer
+chronic myelogenous leukemia	4	3.0	chronic myelogenous leukemia
+HNSCC	4	2.0	HNSCC
+pancreatic carcinoma	4	1.0	pancreatic carcinoma
+colorectal cancer	3	2.0	colorectal cancer
+cancer, squamous cell carcinoma	3	3.0	cancer, squamous cell carcinoma
+lung cancer	3	1.0	lung cancer
+atherosclerosis	3	3.0	atherosclerosis
+pancreatic ductal adenocarcinoma	3	2.0	pancreatic ductal adenocarcinoma
+Kaposi's sarcoma	3		Kaposi's sarcoma
+non-small cell lung adenocarcinoma	3	1.0	non-small cell lung adenocarcinoma
+colorectal carcinoma	2	1.0	colorectal carcinoma
+tuberous sclerosis	2		tuberous sclerosis
+psoriasis	2	2.0	psoriasis
+CRPC	2		CRPC
+kidney cancer	2		kidney cancer
+non-small cell lung cancer	2	1.0	non-small cell lung cancer
+Alzheimer's disease; schizophrenia	2	2.0	Alzheimer's disease; schizophrenia
+adrenocortical carcinoma	2		adrenocortical carcinoma
+X-linked agammaglobulinaemia	2	1.0	X-linked agammaglobulinaemia
+chronic lymphocytic leukemia	2	1.0	chronic lymphocytic leukemia
+glioblastoma multiforme	2	1.0	glioblastoma multiforme
+CCA	2		CCA
+breast cancer; lung cancer; colorectal cancer; ovarian cancer	2		breast cancer; lung cancer; colorectal cancer; ovarian cancer
+FTLD	1		FTLD
+gastric carcinoma	1		gastric carcinoma
+acute lymphocytic leukemia; acute myelogenous leukemia; B cell lymphoma	1	1.0	acute lymphocytic leukemia; acute myelogenous leukemia; B cell lymphoma
+B cell lymphoma; non-Hodgkin's lymphoma; lymphoplasmacytic lymphoma; follicular lymphoma	1		B cell lymphoma; non-Hodgkin's lymphoma; lymphoplasmacytic lymphoma; follicular lymphoma
+hepatocellular carcinoma	1		hepatocellular carcinoma
+ataxia-telangiectasic cancer	1	1.0	ataxia-telangiectasic cancer
+breast cancer; lung cancer; endometrial cancer; ovarian cancer; clear cell kidney cancer	1	1.0	breast cancer; lung cancer; endometrial cancer; ovarian cancer; clear cell kidney cancer
+depression	1	1.0	depression
+T cell lymphoma	1		T cell lymphoma
+Huntington's disease	1	1.0	Huntington's disease
+Burkitt's lymphoma	1	1.0	Burkitt's lymphoma
+vulvar cancer	1	1.0	vulvar cancer
+multiple myeloma	1	1.0	multiple myeloma
+acute myelogenous leukemia	1	1.0	acute myelogenous leukemia
+breast cancer; colorectal cancer	1		breast cancer; colorectal cancer
+LBD	1		LBD
+ALS	1		ALS
+colonic inflamation	1		colonic inflamation
+Wilm's tumor	1	1.0	Wilm's tumor
+hypertrophic cardiomyopathy	1		hypertrophic cardiomyopathy
+myelodysplastic syndrome	1		myelodysplastic syndrome
+endometrial cancer	1	1.0	endometrial cancer
+esophageal carcinoma; hepatocellular carcinoma; breast cancer; lung cancer; gastric cancer	1		esophageal carcinoma; hepatocellular carcinoma; breast cancer; lung cancer; gastric cancer
+acute lymphocytic leukemia; chronic myelogenous leukemia; leukemia	1	1.0	acute lymphocytic leukemia; chronic myelogenous leukemia; leukemia
+Emery-Dreifuss muscular dystrophy	1	1.0	Emery-Dreifuss muscular dystrophy
+major depressive disorder	1		major depressive disorder
+osteosarcoma	1		osteosarcoma
+CS	1	1.0	CS
+PAH	1		PAH
+ALD	1		ALD
+CPA	1	1.0	CPA
+schizophrenia	1		schizophrenia
+Fanconi's anaemia	1	1.0	Fanconi's anaemia
+obesity, hyperphagic	1		obesity, hyperphagic
+hepatitis B	1		hepatitis B
+Schwannoma	1	1.0	Schwannoma
+clear cell kidney cancer	1	1.0	clear cell kidney cancer
+mesothelioma	1	1.0	mesothelioma
+FMD	1		FMD
